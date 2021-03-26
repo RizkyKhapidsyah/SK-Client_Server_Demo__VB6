@@ -1,0 +1,6 @@
+Line 286: Class MSComDlg.CommonDialog of control cmndlg1 was not a loaded control class.
+Line 289: The property name _ExtentX in cmndlg1 is invalid.
+Line 290: The property name _ExtentY in cmndlg1 is invalid.
+Line 291: The property name _Version in cmndlg1 is invalid.
+Line 292: The property name CancelError in cmndlg1 is invalid.
+Line 293: The property name DefaultExt in cmndlg1 is invalid.
